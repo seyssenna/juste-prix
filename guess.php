@@ -17,5 +17,5 @@ if ($priceGuessed < $realPrice || $priceGuessed > $realPrice) {
 ?>
 
 <button>
-    <a href="index.html">Re-Try</a>
+    <a href="index.php">Re-Try</a>
 </button>
