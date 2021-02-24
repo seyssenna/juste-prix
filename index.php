@@ -27,6 +27,7 @@
           <span>€ </span> <input id="price" name="guess" />
         </div>
         <button type="submit">Valider</button>
+    
       </form>
     </main>
   </body>
