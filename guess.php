@@ -6,9 +6,9 @@ $priceGuessed = $_POST['guess'];
 
 if ($priceGuessed < $realPrice || $priceGuessed > $realPrice) {
     if ($priceGuessed < $realPrice) {
-        echo("vous trop trop bas");
+        echo("vous etes trop bas");
     } else {
-        echo("vous trop trop haut");
+        echo("vous etes trop haut");
     }
 } else {
     echo("trouver! et c'est bien trop cher, eller hop, a la casse!");
